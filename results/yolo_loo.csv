@@ -1,0 +1,6 @@
+image,predicted,true,abs_error,recall,precision,ms
+plank1.jpg,62,54,8,1.0,0.9,11.4
+plank2.jpg,22,24,2,1.0,1.0,12.1
+plank3.jpg,89,73,16,0.92,0.79,11.0
+plank4.jpg,19,13,6,0.69,0.42,10.9
+plank5.avif,35,60,25,0.52,0.89,11.9
