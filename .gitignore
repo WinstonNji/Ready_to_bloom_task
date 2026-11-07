@@ -1,0 +1,25 @@
+# Confidential test images and anything derived from them (overlays, crops)
+data/images/
+data/tiles/
+data/yolo/
+results/overlays/
+*.jpg
+*.jpeg
+*.png
+*.avif
+*.webp
+*.mp4
+*.zip
+
+# Model weights and exports
+*.pt
+*.onnx
+*.mlpackage/
+*.mlmodel
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

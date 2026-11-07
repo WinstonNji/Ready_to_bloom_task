@@ -1,0 +1,10 @@
+numpy
+scipy
+pillow
+pillow-avif-plugin
+opencv-python
+matplotlib
+ultralytics
+torch
+coremltools
+pandas
