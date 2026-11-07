@@ -1,0 +1,6 @@
+image,predicted,true,abs_error
+plank1.jpg,12,54,42
+plank2.jpg,12,24,12
+plank3.jpg,19,73,54
+plank4.jpg,16,13,3
+plank5.avif,21,60,39

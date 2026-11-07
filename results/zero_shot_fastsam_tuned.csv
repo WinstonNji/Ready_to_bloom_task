@@ -1,0 +1,6 @@
+image,true,predicted,abs_error,recall,precision,ms_cpu
+plank1.jpg,54,54,0,0.87,0.85,1231
+plank2.jpg,24,23,1,0.54,0.52,1426
+plank3.jpg,73,73,0,0.88,0.84,1479
+plank4.jpg,13,13,0,0.77,0.69,2169
+plank5.avif,60,59,1,0.88,0.93,2399
